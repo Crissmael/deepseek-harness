@@ -113,3 +113,4 @@ gh pr checks
 Report pending checks as pending. Inspect failures before attributing them to the branch or the environment.
 
 For `gh stack sync`, use the post-sync validation sequence instead of pretending the ordinary order was possible.
+
